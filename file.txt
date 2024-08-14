@@ -1,1 +1,2 @@
 Bu dosya vsc da oluştu
+2. satır eklendi
